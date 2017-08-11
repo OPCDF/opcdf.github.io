@@ -1,0 +1,85 @@
+body {
+  background-color: #CFD8DC;
+}
+
+#content {
+  padding: 0px 25px 25px 25px;
+}
+
+#ben-div {
+  visibility: hidden;
+}
+
+#ben-table {
+  text-align: left;
+}
+
+#ben-text-div {
+  visibility: hidden;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0 10px;
+}
+
+#ben-desc {
+  width: 65%;
+}
+
+#ben-disclaimer {
+  padding-top: 15px;
+}
+
+.text {
+  font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive;
+  color: #212121;
+}
+
+.heading-text {
+  text-align: center;
+  font-size: 50px;
+}
+
+.content-text {
+  font-size: 20px;
+}
+
+.ben-table-data {
+  padding: 15px;
+}
+
+.fineprint-text {
+  font-size: 5px;
+}
+
+.footer-text {
+  font-size: 10px;
+  text-align: center;
+}
+
+.button {
+  padding: 15px;
+  font-size: 20px;
+  border-radius: 5px;
+  background-color: #448AFF;
+  color: #FFFFFF;
+  border-style: none;
+  box-shadow: 3px 3px 10px black;
+}
+
+.button:hover {
+  box-shadow: 3px 3px 15px black;
+}
+
+.button:active {
+  background-color: #448ADD;
+}
+
+.textinput {
+  padding: 10px;
+  font-size: 15px;
+}
